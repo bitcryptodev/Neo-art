@@ -39,7 +39,7 @@ You can access the Dapp right now at [https://neo-art.vercel.app/](https://neo-a
     - **Address:** [0xD29e6E81BE21Fd453a0324053C3D5b0cED95958A](https://xt4scan.ngd.network/address/0xD29e6E81BE21Fd453a0324053C3D5b0cED95958A)
     - **Status:** Deployed
   - **PaintToken.sol**
-    - **Address:** [0x78094a9d21b6e9a57e66c37885405b43a0784ddc](https://scrollscan.com/token/0x78094a9d21b6e9a57e66c37885405b43a0784ddc)
+    - **Address:** [0xfBE00f18773B1B2Cd37Bb09DE269C2A1F14868d7](https://xt4scan.ngd.network/address/0xfBE00f18773B1B2Cd37Bb09DE269C2A1F14868d7)
     - **Status:** Deployed 
 
 ## **Getting Started**
