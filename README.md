@@ -4,7 +4,7 @@
 
 You can access the Dapp right now at [https://neo-art.vercel.app/](https://neo-art.vercel.app/)
 
-
+![Neo Art Logo](https://github.com/user-attachments/assets/4894b595-d81a-4ca3-a792-6e0248daed46)
 
 ## **Key Features**
 
